@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zY0hTgO4ewN0khVzoyDmds7Mn9rMecImMOvPacz9/ng=",
+  "Source": "ShoppingListWebApi",
+  "BasePath": "_content/ShoppingListWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
